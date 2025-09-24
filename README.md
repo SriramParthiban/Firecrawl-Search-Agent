@@ -1,5 +1,7 @@
 # 🔥 Firecrawl Search Agent
 
+> 📝 Inspired by a [Nate Herk YouTube tutorial](https://www.youtube.com/@nateherk). Full credit goes to him.  
+
 This project contains an **n8n workflow** that turns natural language queries into advanced Firecrawl `/search` requests.  
 The agent can search the entire web with full control over:
 
