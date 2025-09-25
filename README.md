@@ -22,7 +22,7 @@ The agent can search the entire web with full control over:
 ---
 
 ## ⚙️ Setup
-1. Clone this repo and import the JSON workflow into **n8n**.  
+1. Clone this repo and import the JSON workflow into **n8n**.  (the cost of the n8n may differ for each people)
 2. Add your **Firecrawl API Key** under **HTTP Header Auth** credentials.  
 3. (Optional) Add your **OpenRouter API key** for the LLM agent.  
 4. Trigger the workflow via **chat input** or manual execution.  
